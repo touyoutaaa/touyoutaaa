@@ -72,7 +72,3 @@ I am a passionate developer currently studying **Data Science and Big Data Techn
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=touyoutaaa&show_icons=true&theme=radical" alt="Jiaxiang's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touyoutaaa&layout=compact&theme=radical" alt="Top Languages" />
-</div>
