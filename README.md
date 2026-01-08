@@ -7,7 +7,7 @@
 🌱 **Education:** Anhui University of Technology (AHUT) - Data Science & Big Data Tech (2023 - 2027)  
 📫 **Email:** 1849625991@qq.com
 
-[![](https://img.shields.io/badge/Github-Profile-black?style=flat-square&logo=github)](https://github.com/your-username)
+[![](https://img.shields.io/badge/Github-Profile-black?style=flat-square&logo=github)](https://github.com/touyoutaaa)
 [![](https://img.shields.io/badge/Email-Contact_Me-orange?style=flat-square&logo=gmail)](mailto:1849625991@qq.com)
 
 </div>
