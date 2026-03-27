@@ -20,7 +20,7 @@ I am a passionate developer currently studying **Data Science and Big Data Techn
 
 ---
 
-### 🛠️ Tech Stack / 技术栈
+### 🛠️ Tech Stack
 
 **Languages**  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
