@@ -46,8 +46,8 @@ I am a passionate developer currently studying **Data Science and Big Data Techn
 
 | Company | Role |
 | :--- | :--- |
-| **Suzhou Liyu Technology** (苏州理御科技) | **Rust Development Engineer Intern**<br>Rust 开发工程师实习生 |
-| **Chengdu Kaiyun Interstellar** (成都凯云星际) | **Full-stack Development Intern**<br>全栈开发实习生 |
+| **Suzhou Liyu Technology** | **Rust Development Engineer Intern**<br>Rust 开发工程师实习生 |
+| **Chengdu Kaiyun Interstellar**  | **Full-stack Development Intern**<br>全栈开发实习生 |
 
 ---
 
